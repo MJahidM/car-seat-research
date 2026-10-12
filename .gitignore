@@ -1,0 +1,5 @@
+.DS_Store
+.build/
+*.tmp
+# Local-only. Contains family details and third-party reference photographs.
+Private (not published)/
