@@ -5,6 +5,9 @@ attention to whether the centre position of the second row can be used.
 
 **Read it here: https://mjahidm.github.io/car-seat-research/**
 
+The page is password protected. The contents are encrypted with AES-GCM and are not
+readable without the password.
+
 ## What is in it
 
 - Second-row findings with the vehicle manual quoted: lower anchor layout, the
